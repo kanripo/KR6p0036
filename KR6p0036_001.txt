@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:10.324623
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:52
 #+TITLE: 略論安樂淨土義
 #+PROPERTY: CBETA_ID T47n1957
 #+PROPERTY: ID KR6p0036
